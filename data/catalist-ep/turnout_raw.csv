@@ -1,0 +1,25 @@
+2018,2016,2014,2012,2010,2008,measure,group,category
+73.3,73.6,76.9,74.1,77.9,76.6,pct_elect,Non-Hispanic White,race
+12.2,12.3,11.9,13.2,11.4,12.3,pct_elect,Non-Hispanic Black,race
+9.4,9.1,7.0,8.3,6.8,7.3,pct_elect,Hispanic,race
+5.1,5.0,4.2,4.4,3.9,3.8,pct_elect,Other,race
+13.8,15.7,10.0,15.4,11.3,17.1,pct_elect,18-29,age
+21.3,22.5,20.3,23.1,21.9,24.8,pct_elect,30-44,age
+27.3,28.2,30.3,30.0,32.7,30.6,pct_elect,45-59,age
+37.3,33.6,39.4,31.5,34.3,27.6,pct_elect,60+,age
+4.2,5.1,5.1,6.2,5.8,6.9,pct_elect,Less Than High School,education
+22.7,24.6,24.3,25.9,26.1,27.4,pct_elect,High School Grad,education
+56.6,55.7,54.9,54.8,53.9,54.0,pct_elect,Some College to College Grad,education
+16.5,14.6,15.8,13.1,14.2,11.8,pct_elect,Post-Graduate,education
+55.2,64.7,40.8,61.8,45.0,65.2,turnout,Non-Hispanic White,race
+51.3,59.9,36.4,67.4,41.6,69.1,turnout,Non-Hispanic Black,race
+36.9,44.9,21.1,43.1,26.6,46.5,turnout,Hispanic,race
+39.7,46.3,24.5,45.4,30.7,48.0,turnout,Other,race
+32.6,43.4,16.3,40.9,20.3,48.4,turnout,18-29,age
+45.8,56.9,30.1,56.2,36.1,60.7,turnout,30-44,age
+56.2,66.2,42.6,66.0,50.4,69.5,turnout,45-59,age
+65.5,71.4,54.9,71.2,59.0,71.0,turnout,60+,age
+23.0,30.7,17.6,32.6,20.7,34.1,turnout,Less Than High School,education
+38.9,48.8,29.0,48.8,34.2,53.0,turnout,High School Grad,education
+58.5,68.6,41.4,67.7,47.7,73.3,turnout,Some College to College Grad,education
+76.8,85.0,59.9,84.9,66.9,87.9,turnout,Post-Graduate,education
