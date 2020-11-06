@@ -1,0 +1,13 @@
+name: onevis
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - notebook
+  - jupyter
+  - pandas
+  - numpy
+  - altair
+  - vega_datasets
+prefix: /Users/psthomas/miniconda3/envs/onevis
+
